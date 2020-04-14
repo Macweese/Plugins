@@ -1,0 +1,18 @@
+[
+	{
+		"projectUrl":"https://discord.gg/OpenOSRS",
+		"provider":"Macweese",
+		"name":"IP Logs",
+		"description":"Logs the connection between client and the game servers",
+		"id":"ConnectionLogger-plugin",
+		"releases": [
+			{
+				"date":"2020-04-14",
+				"sha512sum":"8b8225162e5709e9850af2b79b875986cb68aa31a6da3c4ac5c08eec1cc4b8f43405c5db09cb0587db43a0ffed01671ac7815cb9314d1e0de43aafd78c1a8be2",
+				"version":"0.0.1",
+				"url":"https://github.com/Macweese/Plugins/blob/master/release/ConnectionLogger-0.0.1.jar?raw=true",
+				"requires":"0.0.1"
+			}
+		]
+	}
+]
