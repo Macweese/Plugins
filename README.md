@@ -1,7 +1,5 @@
 ![OpenOSRS - CI (Push)](https://github.com/open-osrs/plugins/workflows/OpenOSRS%20-%20CI%20(Push)/badge.svg?branch=master)
 # Plugins
-ooga booga plugins
+Collection of smaller projects, experimental plugins, features or other deprecated code.
 
-Source code is located at https://github.com/open-osrs/plugins
-
-![cheese eaters](https://i.imgur.com/aQnxZsK.png)
+### Contact on [Discord](https://discordapp.com/users/159941566994186240)
