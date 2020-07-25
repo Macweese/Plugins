@@ -1,0 +1,51 @@
+[
+	{
+		"projectUrl":"https://discord.gg/OpenOSRS",
+		"provider":"Macweese",
+		"name":"IP Logs",
+		"description":"Logs the connection between client and the game servers",
+		"id":"ConnectionLogger-plugin",
+		"releases": [
+			{
+				"date":"2020-04-14",
+				"sha512sum":"0cb956b00b2dc4e7ce9f5adccbc66a27808aa0cd69e0b5b244cd219489e416db3a6d49763b17c9d15dd1eeb8a5dca31e96b2ae84c609beb4a2d84f0ee8472455",
+				"version":"0.0.2",
+				"url":"https://github.com/Macweese/Plugins/blob/master/release/ConnectionLogger-0.0.2.jar?raw=true",
+				"requires":"0.0.1"
+			}
+		]
+	},
+	{
+		"projectUrl":"https://discord.gg/OpenOSRS",
+		"provider":"Macweese",
+		"name":"Environment Effects",
+		"description":"Removes or helps with various effects and overlays in different environments",
+		"id":"EnvironmentEffects-plugin",
+		"releases": [
+			{
+				"date":"2020-04-15",
+				"sha512sum":"7b7dcea55ddfd0da13f6df2e21bbfcf80a77057cad325ac3d26f71d20e40c202e07458f51bbd52bbe592bd59f08c47cb61b93c779e8c04a03c9be0d9189eb90a",
+				"version":"0.0.1",
+				"url":"https://github.com/Macweese/Plugins/blob/master/release/EnvironmentEffects-0.0.1.jar?raw=true",
+				"requires":"0.0.1"
+			}
+		]
+	},
+	{
+		"projectUrl":"https://discord.gg/OpenOSRS",
+		"provider":"Macweese",
+		"name":"Scry Scouter",
+		"description":"Helps scouting through the teleport portal in your POH",
+		"id":"ScryScouter-plugin",
+		"releases": [
+			{
+				"date":"2020-07-22",
+				"sha512sum":"7b7dcea55ddfd0da13f6df2e21bbfcf80a77057cad325ac3d26f71d20e40c202e07458f51bbd52bbe592bd59f08c47cb61b93c779e8c04a03c9be0d9189eb90a",
+				"version":"0.0.1",
+				"url":"https://github.com/Macweese/Plugins/blob/master/release/ScryScouter-0.0.1.jar?raw=true",
+				"requires":"0.0.1"
+			}
+		]
+	}
+	
+]
