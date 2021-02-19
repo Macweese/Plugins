@@ -31,21 +31,5 @@
 			}
 		]
 	},
-	{
-		"projectUrl":"https://discord.gg/OpenOSRS",
-		"provider":"Macweese",
-		"name":"Scry Scouter",
-		"description":"Helps scouting through the teleport portal in your POH",
-		"id":"ScryScouter-plugin",
-		"releases": [
-			{
-				"date":"2020-07-22",
-				"sha512sum":"7b7dcea55ddfd0da13f6df2e21bbfcf80a77057cad325ac3d26f71d20e40c202e07458f51bbd52bbe592bd59f08c47cb61b93c779e8c04a03c9be0d9189eb90a",
-				"version":"0.0.1",
-				"url":"https://github.com/Macweese/Plugins/blob/master/release/ScryScouter-0.0.1.jar?raw=true",
-				"requires":"0.0.1"
-			}
-		]
-	}
 	
 ]
