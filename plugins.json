@@ -30,5 +30,21 @@
 				"requires":"0.0.1"
 			}
 		]
+	},
+	{
+		"projectUrl":"https://discord.gg/OpenOSRS",
+		"provider":"Macweese",
+		"name":"PvP Notifier",
+		"description":"Alerts you of players in hostile conditions",
+		"id":"pvpnotifier-plugin",
+		"releases": [
+			{
+				"date":"2021-02-19",
+				"sha512sum":"9791d94149a75e891d63a5a901589cef3c0344428147673a8a8500972e21a79db2c8b30d3960dc3608919d78fc2e6c58f6d7062da7c4ec7007d00a6ae93fbcba",
+				"version":"0.0.1",
+				"url":"https://github.com/Macweese/Plugins/blob/master/release/pvpnotifier-0.0.1.jar?raw=true",
+				"requires":"0.0.1"
+			}
+		]
 	}
 ]
