@@ -19,7 +19,7 @@
 		"projectUrl":"https://discord.gg/OpenOSRS",
 		"provider":"Macweese",
 		"name":"Smithing",
-		"description":"Helps with smithing at an anvils",
+		"description":"Helps with smithing at anvils",
 		"id":"smithing-plugin",
 		"releases": [
 			{
