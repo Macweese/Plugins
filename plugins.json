@@ -52,7 +52,7 @@
 		"provider":"Macweese",
 		"name":"Custom RSN Hider",
 		"description":"Hide your player name",
-		"id":"rsnhider-plugin",
+		"id":"customrsnobfuscator-plugin",
 		"releases": [
 			{
 				"date":"2021-02-21",
