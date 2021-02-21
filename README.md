@@ -9,4 +9,7 @@ Customise the alert to chatbox or include a sound alert.
 ### • Smithing
 Simple smithing QoL plugin.
 
+### • Connection Logger
+Logs the connection details between the client and game server to a folder in your .runelite directory.
+
 ### Contact on [Discord](https://discordapp.com/users/159941566994186240)
