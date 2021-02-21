@@ -4,10 +4,10 @@
 		"provider":"Macweese",
 		"name":"IP Logs",
 		"description":"Logs the connection between client and the game servers",
-		"id":"ConnectionLogger-plugin",
+		"id":"connectionlogger-plugin",
 		"releases": [
 			{
-				"date":"2020-04-14",
+				"date":"2020-01-14",
 				"sha512sum":"c5621f6fbded1082ed17753ae98e6c0749de81e61e148ee1c0981aedc61f0895bed1b3559d892b9da4227fed22d2e5cdcfe5a6ba92c200f8ebe70a2563f4cbce",
 				"version":"0.0.1",
 				"url":"https://github.com/Macweese/Plugins/blob/master/connectionlogger-0.0.1.jar?raw=true",
