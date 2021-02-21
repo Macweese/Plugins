@@ -10,7 +10,7 @@
 				"date":"2020-04-14",
 				"sha512sum":"c5621f6fbded1082ed17753ae98e6c0749de81e61e148ee1c0981aedc61f0895bed1b3559d892b9da4227fed22d2e5cdcfe5a6ba92c200f8ebe70a2563f4cbce",
 				"version":"0.0.1",
-				"url":"https://github.com/Macweese/Plugins/blob/master/release/ConnectionLogger-0.0.1.jar?raw=true",
+				"url":"https://github.com/Macweese/Plugins/blob/master/connectionlogger-0.0.1.jar?raw=true",
 				"requires":"0.0.1"
 			}
 		]
@@ -26,7 +26,7 @@
 				"date":"2021-02-19",
 				"sha512sum":"8ffdb4de340597f373c76926466b5984de87010197714cf344e3f6093ebce0558914705ea9a105067eb34e7de4fba46196128978d8b3413eea23a814d01a2317",
 				"version":"0.0.1",
-				"url":"https://github.com/Macweese/Plugins/blob/master/release/smithing-0.0.1.jar?raw=true",
+				"url":"https://github.com/Macweese/Plugins/blob/master/smithing-0.0.1.jar?raw=true",
 				"requires":"0.0.1"
 			}
 		]
@@ -42,7 +42,7 @@
 				"date":"2021-02-19",
 				"sha512sum":"9791d94149a75e891d63a5a901589cef3c0344428147673a8a8500972e21a79db2c8b30d3960dc3608919d78fc2e6c58f6d7062da7c4ec7007d00a6ae93fbcba",
 				"version":"0.0.1",
-				"url":"https://github.com/Macweese/Plugins/blob/master/release/pvpnotifier-0.0.1.jar?raw=true",
+				"url":"https://github.com/Macweese/Plugins/blob/master/pvpnotifier-0.0.1.jar?raw=true",
 				"requires":"0.0.1"
 			}
 		]
