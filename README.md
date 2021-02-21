@@ -6,6 +6,9 @@ Collection of smaller projects, experimental plugins, features or other deprecat
 Alerts you of players in hostile environments (wilderness/PVP world/Deadman) if they can attack you.
 Customise the alert to chatbox or include a sound alert.
 
+### • Custom RSN Hider
+Obfuscate your player name by a randomized sequence of characters or with a custom name.
+
 ### • Smithing
 Simple smithing QoL plugin.
 
