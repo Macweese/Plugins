@@ -8,9 +8,9 @@
 		"releases": [
 			{
 				"date":"2020-01-14",
-				"sha512sum":"c5621f6fbded1082ed17753ae98e6c0749de81e61e148ee1c0981aedc61f0895bed1b3559d892b9da4227fed22d2e5cdcfe5a6ba92c200f8ebe70a2563f4cbce",
-				"version":"0.0.1",
-				"url":"https://github.com/Macweese/Plugins/blob/master/connectionlogger-0.0.1.jar?raw=true",
+				"sha512sum":"d96814b093c930bc8ea5206ed316060ea3935d52aa60a585cfc44a8152fb512635c503f8c349d907dd3b0d8819907f8ceb7a2668118c2864d0f24e65e2a480ec",
+				"version":"0.0.3",
+				"url":"https://github.com/Macweese/Plugins/blob/master/connectionlogger-0.0.3.jar?raw=true",
 				"requires":"0.0.1"
 			}
 		]
