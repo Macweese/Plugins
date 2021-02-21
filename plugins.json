@@ -46,5 +46,21 @@
 				"requires":"0.0.1"
 			}
 		]
+	},
+	{
+		"projectUrl":"https://discord.com/users/159941566994186240",
+		"provider":"Macweese",
+		"name":"Custom RSN Hider",
+		"description":"Hide your player name",
+		"id":"rsnhider-plugin",
+		"releases": [
+			{
+				"date":"2021-02-21",
+				"sha512sum":"e54f210e9e3e0ecdb3be256ed9db60152d990ea36ceb2e88d865a833b8d88417e474b1b416e27e92f90e0d4840bf2873b199e9b079399ba73b42c2b0088deb15",
+				"version":"0.0.1",
+				"url":"https://github.com/Macweese/Plugins/blob/master/rsnhider-0.0.1.jar?raw=true",
+				"requires":"0.0.1"
+			}
+		]
 	}
 ]
