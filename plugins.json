@@ -24,7 +24,7 @@
 		"releases": [
 			{
 				"date":"2021-03-07",
-				"sha512sum":"3c4b62da95171075d1967f9b334758960e302a1096655586ea995c3362073f093447d3baf3dcfc2c8b6195ca9f85b8b93efd1474014b805c1436e09a50eeb9e6",
+				"sha512sum":"65d602342b5cf357acb4cc9632ca222139ab4e0ca879a4842555738e70018ba397ec8a850246e75234a99f40dd7636a853d75004fcee7b907659a8ea866da91d",
 				"version":"5.0.4",
 				"url":"https://github.com/Macweese/Plugins/blob/master/smithing/smithing-5.0.4.jar?raw=true",
 				"requires":"1.0.0"
