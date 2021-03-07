@@ -23,11 +23,11 @@
 		"id":"smithing-plugin",
 		"releases": [
 			{
-				"date":"2021-02-19",
-				"sha512sum":"8ffdb4de340597f373c76926466b5984de87010197714cf344e3f6093ebce0558914705ea9a105067eb34e7de4fba46196128978d8b3413eea23a814d01a2317",
-				"version":"0.0.1",
-				"url":"https://github.com/Macweese/Plugins/blob/master/smithing-0.0.1.jar?raw=true",
-				"requires":"0.0.1"
+				"date":"2021-03-07",
+				"sha512sum":"bb383fe3371ad39ff4d4f006f168a29f28016064858513c4755012b5a1a6dcb8d0dec1366a44c919d9a5a0ed164bb3aec768174e660aad05aa2fc9a9ccb6d373",
+				"version":"5.0.0",
+				"url":"https://github.com/Macweese/Plugins/blob/master/smithing-5.0.0.jar?raw=true",
+				"requires":"5.0.0"
 			}
 		]
 	},
