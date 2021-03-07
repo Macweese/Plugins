@@ -27,7 +27,7 @@
 				"sha512sum":"bb383fe3371ad39ff4d4f006f168a29f28016064858513c4755012b5a1a6dcb8d0dec1366a44c919d9a5a0ed164bb3aec768174e660aad05aa2fc9a9ccb6d373",
 				"version":"5.0.0",
 				"url":"https://github.com/Macweese/Plugins/blob/master/smithing/smithing-5.0.0.jar?raw=true",
-				"requires":"1.0.1"
+				"requires":"1.0.0"
 			}
 		]
 	},
