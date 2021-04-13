@@ -78,6 +78,23 @@
 				"requires":"0.0.1"
 			}
 		]
+	},
+	{
+		"projectUrl":"https://discord.com/users/159941566994186240",
+		"provider":"Macweese",
+		"name":"Alcher",
+		"description":"High alch items the easy way",
+		"id":"alcher-plugin",
+		"releases": [
+			{
+				"date":"2021-04-12",
+				"sha512sum":"8a73fce1af2b58e48c07820643fd04d7698033b19efbbde10e263d70cbab154a1eb5c294859ed89820bce4189083183d98ed22eebbf8e02c512938644c86bad0",
+				"version":"4.0.1",
+				"url":"https://github.com/Macweese/Plugins/blob/master/alcher/alcher-4.0.1.jar?raw=true",
+				"requires":"0.0.1"
+			}
+		]
 	}
+
 
 ]
