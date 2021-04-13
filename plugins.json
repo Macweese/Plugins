@@ -72,7 +72,7 @@
 		"releases": [
 			{
 				"date":"2021-04-12",
-				"sha512sum":"6de0a65948ca799952540a845b682b0f92fbe58ffe0a726aa19c100d6157e9330d92d3133938358e1de4b7994eea7699b8e4e63da1a05e0d298e32b6e751f021",
+				"sha512sum":"1ad8003a4025f2689c4f492e94ce1eeeee48b23b28de61e4034e8d7d31e9ed34d16dcab37969051e750f6cab00980cfa95570b12efdc37bd7578e8db96306d2b",
 				"version":"4.0.1",
 				"url":"https://github.com/Macweese/Plugins/blob/master/monkkiller/monkkiller-4.0.1.jar?raw=true",
 				"requires":"0.0.1"
