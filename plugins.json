@@ -62,5 +62,22 @@
 				"requires":"0.0.1"
 			}
 		]
+	},
+	{
+		"projectUrl":"https://discord.com/users/159941566994186240",
+		"provider":"Macweese",
+		"name":"Monk Killer",
+		"description":"Make a defence pure the easy way",
+		"id":"monkkiller-plugin",
+		"releases": [
+			{
+				"date":"2021-04-12",
+				"sha512sum":"6de0a65948ca799952540a845b682b0f92fbe58ffe0a726aa19c100d6157e9330d92d3133938358e1de4b7994eea7699b8e4e63da1a05e0d298e32b6e751f021",
+				"version":"4.0.1",
+				"url":"https://github.com/Macweese/Plugins/blob/master/monkkiller/monkkiller-4.0.1.jar?raw=true",
+				"requires":"0.0.1"
+			}
+		]
 	}
+
 ]
